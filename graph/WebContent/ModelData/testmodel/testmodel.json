@@ -1,0 +1,28 @@
+{
+	"nodes":{
+	"aaaa":{  "alpha":1, 
+			 "type":"root", 
+			 "category":"CA", 
+			 "link":"VULCAN_Workbench.htm" },
+	"bbbb":{ "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Domaing_Engineering.htm" },	
+ 	"cccc":{		 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature_Modeling.htm" },	
+ 	"dddd":{ 	 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Product_Line_Requirements_Management.htm" }	 
+	},
+	"edges":{
+	 "aaaa":{
+	         "bbbb":{"weight":1},
+ 			 "cccc":{"weight":1},
+ 			 "dddd":{"weight":1}
+ 	}
+	}
+}
+

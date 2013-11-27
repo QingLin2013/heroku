@@ -1,0 +1,544 @@
+{ 
+	 "nodes":{ 
+
+ 		 "VULCAN Workbench":{ 
+			 "alpha":1, 
+			 "type":"root", 
+			 "category":"CA", 
+			 "link":"VULCAN_Workbench.htm" 
+		 },
+ 		 "Domaing Engineering":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Domaing_Engineering.htm" 
+		 },
+ 		 "Feature Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature_Modeling.htm" 
+		 },
+ 		 "Product Line Requirements Management":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Product_Line_Requirements_Management.htm" 
+		 },
+ 		 "Configuration Decision Modeling":{ 
+			 "alpha":1, 
+			 "type":"optional", 
+			 "category":"CA", 
+			 "link":"Configuration_Decision_Modeling.htm" 
+		 },
+ 		 "Commonality and Variability Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Commonality_and_Variability_Modeling.htm" 
+		 },
+ 		 "Feature Model Extraction":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature_Model_Extraction.htm" 
+		 },
+ 		 "Feature Model Comparing":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature_Model_Comparing.htm" 
+		 },
+ 		 "Commonality and Variability Analysis of Legacy Systems":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Commonality_and_Variability_Analysis_of_Legacy_Systems.htm" 
+		 },
+ 		 "Architecture Modeling and Component Development":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Architecture_Modeling_and_Component_Development.htm" 
+		 },
+ 		 "Feature-based Consistency Checking":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature-based_Consistency_Checking.htm" 
+		 },
+ 		 "Architecture Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Architecture_Modeling.htm" 
+		 },
+ 		 "Conceptual Architecture Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Conceptual_Architecture_Modeling.htm" 
+		 },
+ 		 "Deployment Architecture Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Deployment_Architecture_Modeling.htm" 
+		 },
+ 		 "Module Architecture Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Module_Architecture_Modeling.htm" 
+		 },
+ 		 "Process Architecture Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Process_Architecture_Modeling.htm" 
+		 },
+ 		 "Variability Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Variability_Modeling.htm" 
+		 },
+ 		 "Component Development":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Component_Development.htm" 
+		 },
+ 		 "Model-based Control Component Development":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Model-based_Control_Component_Development.htm" 
+		 },
+ 		 "Domain Component Development":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Domain_Component_Development.htm" 
+		 },
+ 		 "Asset Management":{ 
+			 "alpha":1, 
+			 "type":"optional", 
+			 "category":"CA", 
+			 "link":"Asset_Management.htm" 
+		 },
+ 		 "FORM-UML":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"DT", 
+			 "link":"FORM-UML.htm" 
+		 },
+ 		 "State-based Behavior Specification":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"State-based_Behavior_Specification.htm" 
+		 },
+ 		 "Workflow-based Behavior Specification":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Workflow-based_Behavior_Specification.htm" 
+		 },
+ 		 "Structural Decision Table-based Behavior Specification":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Structural_Decision_Table-based_Behavior_Specification.htm" 
+		 },
+ 		 "User Interaction-based Behavior Specification":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"User_Interaction-based_Behavior_Specification.htm" 
+		 },
+ 		 "Source Code Searching":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Source_Code_Searching.htm" 
+		 },
+ 		 "Intelligent Decision Making Model Development":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Intelligent_Decision_Making_Model_Development.htm" 
+		 },
+ 		 "Adaptive Component Development":{ 
+			 "alpha":1, 
+			 "type":"optional", 
+			 "category":"CA", 
+			 "link":"Adaptive_Component_Development.htm" 
+		 },
+ 		 "Feature-based Java Development Toolkit":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature-based_Java_Development_Toolkit.htm" 
+		 },
+ 		 "System Environment Modeling":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"System_Environment_Modeling.htm" 
+		 },
+ 		 "Feature Model and Requirements Checking":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature_Model_and_Requirements_Checking.htm" 
+		 },
+ 		 "Feature Model and Architecture Checking":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature_Model_and_Architecture_Checking.htm" 
+		 },
+ 		 "Feature Model and Source Code Checking":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Feature_Model_and_Source_Code_Checking.htm" 
+		 },
+ 		 "Application Engineering":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Engineering.htm" 
+		 },
+ 		 "Configuration Decision Making":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Configuration_Decision_Making.htm" 
+		 },
+ 		 "Application Requirements Instantiation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Requirements_Instantiation.htm" 
+		 },
+ 		 "Application Architecture Model Instantiation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Architecture_Model_Instantiation.htm" 
+		 },
+ 		 "Application Instantiation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Instantiation.htm" 
+		 },
+ 		 "Application Control Component Specification Instantiation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Control_Component_Specification_Instantiation.htm" 
+		 },
+ 		 "Application Domain Component Instantiation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Domain_Component_Instantiation.htm" 
+		 },
+ 		 "Application System Environment Instantiation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_System_Environment_Instantiation.htm" 
+		 },
+ 		 "Application Source Code Generation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Source_Code_Generation.htm" 
+		 },
+ 		 "Deployment Configuration":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Deployment_Configuration.htm" 
+		 },
+ 		 "Verification and Validation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Verification_and_Validation.htm" 
+		 },
+ 		 "Simulation Analysis":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Simulation_Analysis.htm" 
+		 },
+ 		 "Environment Simulation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Environment_Simulation.htm" 
+		 },
+ 		 "Application Simulation":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Simulation.htm" 
+		 },
+ 		 "Formal Analysis":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Formal_Analysis.htm" 
+		 },
+ 		 "Application Control Component Specification Analysis":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"CA", 
+			 "link":"Application_Control_Component_Specification_Analysis.htm" 
+		 },
+ 		 "Model Checking":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"DT", 
+			 "link":"Model_Checking.htm" 
+		 },
+ 		 "Theorem Proving":{ 
+			 "alpha":1, 
+			 "type":"optional", 
+			 "category":"DT", 
+			 "link":"Theorem_Proving.htm" 
+		 },
+ 		 "Analysis Methods":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"DT", 
+			 "link":"Analysis_Methods.htm" 
+		 },
+ 		 "Testing":{ 
+			 "alpha":1, 
+			 "type":"optional", 
+			 "category":"CA", 
+			 "link":"Testing.htm" 
+		 },
+ 		 "Unit Testing":{ 
+			 "alpha":1, 
+			 "type":"optional", 
+			 "category":"CA", 
+			 "link":"Unit_Testing.htm" 
+		 },
+ 		 "System Testing":{ 
+			 "alpha":1, 
+			 "type":"optional", 
+			 "category":"CA", 
+			 "link":"System_Testing.htm" 
+		 },
+ 		 "Formal Specification":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"DT", 
+			 "link":"Formal_Specification.htm" 
+		 },
+ 		 "Java Runtime Environment":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Java_Runtime_Environment.htm" 
+		 },
+ 		 "Eclipse IDE":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Eclipse_IDE.htm" 
+		 },
+ 		 "Running Environment":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Running_Environment.htm" 
+		 },
+ 		 "Required Plug-ins":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Required_Plug-ins.htm" 
+		 },
+ 		 "Required Libraries":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Required_Libraries.htm" 
+		 },
+ 		 "EMF":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"EMF.htm" 
+		 },
+ 		 "GEF":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"GEF.htm" 
+		 },
+ 		 "GMF":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"GMF.htm" 
+		 },
+ 		 "JDOM":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"JDOM.htm" 
+		 },
+ 		 "Docx4J":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Docx4J.htm" 
+		 },
+ 		 "Apache Log4J":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Apache_Log4J.htm" 
+		 },
+ 		 "JGraphT":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"JGraphT.htm" 
+		 },
+ 		 "ASADAL GDT":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"ASADAL_GDT.htm" 
+		 },
+ 		 "Apache FOP":{ 
+			 "alpha":1, 
+			 "type":"mandatory", 
+			 "category":"OE", 
+			 "link":"Apache_FOP.htm" 
+		 }
+ 	 }, 
+	 "edges":{ 
+
+		 "VULCAN Workbench":{
+ 			 "Domaing Engineering":{"weight":1},
+ 			 "Application Engineering":{"weight":1},
+ 			 "Running Environment":{"weight":1}
+ 		 },
+		 "Domaing Engineering":{
+ 			 "Commonality and Variability Modeling":{"weight":1},
+ 			 "Commonality and Variability Analysis of Legacy Systems":{"weight":1},
+ 			 "Architecture Modeling and Component Development":{"weight":1},
+ 			 "Feature-based Consistency Checking":{"weight":1},
+ 			 "Asset Management":{"weight":1},
+ 			 "System Environment Modeling":{"weight":1}
+ 		 },
+		 "Commonality and Variability Modeling":{
+ 			 "Feature Modeling":{"weight":1},
+ 			 "Product Line Requirements Management":{"weight":1},
+ 			 "Configuration Decision Modeling":{"weight":1}
+ 		 },
+		 "Commonality and Variability Analysis of Legacy Systems":{
+ 			 "Feature Model Extraction":{"weight":1},
+ 			 "Feature Model Comparing":{"weight":1}
+ 		 },
+		 "Architecture Modeling and Component Development":{
+ 			 "Architecture Modeling":{"weight":1},
+ 			 "Component Development":{"weight":1}
+ 		 },
+		 "Feature-based Consistency Checking":{
+ 			 "Feature Model and Requirements Checking":{"weight":1},
+ 			 "Feature Model and Architecture Checking":{"weight":1},
+ 			 "Feature Model and Source Code Checking":{"weight":1}
+ 		 },
+		 "Architecture Modeling":{
+ 			 "Conceptual Architecture Modeling":{"weight":1},
+ 			 "Deployment Architecture Modeling":{"weight":1},
+ 			 "Module Architecture Modeling":{"weight":1},
+ 			 "Process Architecture Modeling":{"weight":1},
+ 			 "Variability Modeling":{"weight":1},
+ 			 "FORM-UML":{"weight":5}
+ 		 },
+		 "Component Development":{
+ 			 "Model-based Control Component Development":{"weight":1},
+ 			 "Domain Component Development":{"weight":1}
+ 		 },
+		 "Model-based Control Component Development":{
+ 			 "State-based Behavior Specification":{"weight":1},
+ 			 "Workflow-based Behavior Specification":{"weight":1},
+ 			 "Structural Decision Table-based Behavior Specification":{"weight":1},
+ 			 "User Interaction-based Behavior Specification":{"weight":1},
+ 			 "Formal Specification":{"weight":5}
+ 		 },
+		 "Domain Component Development":{
+ 			 "Source Code Searching":{"weight":1},
+ 			 "Intelligent Decision Making Model Development":{"weight":1},
+ 			 "Adaptive Component Development":{"weight":1},
+ 			 "Feature-based Java Development Toolkit":{"weight":1}
+ 		 },
+		 "Application Engineering":{
+ 			 "Configuration Decision Making":{"weight":1},
+ 			 "Application Instantiation":{"weight":1},
+ 			 "Application Source Code Generation":{"weight":1},
+ 			 "Deployment Configuration":{"weight":1},
+ 			 "Verification and Validation":{"weight":1}
+ 		 },
+		 "Application Instantiation":{
+ 			 "Application Requirements Instantiation":{"weight":1},
+ 			 "Application Architecture Model Instantiation":{"weight":1},
+ 			 "Application Control Component Specification Instantiation":{"weight":1},
+ 			 "Application Domain Component Instantiation":{"weight":1},
+ 			 "Application System Environment Instantiation":{"weight":1}
+ 		 },
+		 "Verification and Validation":{
+ 			 "Simulation Analysis":{"weight":1},
+ 			 "Formal Analysis":{"weight":1},
+ 			 "Testing":{"weight":1}
+ 		 },
+		 "Simulation Analysis":{
+ 			 "Environment Simulation":{"weight":1},
+ 			 "Application Simulation":{"weight":1}
+ 		 },
+		 "Formal Analysis":{
+ 			 "Application Control Component Specification Analysis":{"weight":1},
+ 			 "Analysis Methods":{"weight":1}
+ 		 },
+		 "Analysis Methods":{
+ 			 "Theorem Proving":{"weight":1},
+ 			 "Model Checking":{"weight":1}
+ 		 },
+		 "Testing":{
+ 			 "Unit Testing":{"weight":1},
+ 			 "System Testing":{"weight":1}
+ 		 },
+		 "Running Environment":{
+ 			 "Java Runtime Environment":{"weight":1},
+ 			 "Eclipse IDE":{"weight":1},
+ 			 "Required Plug-ins":{"weight":1},
+ 			 "Required Libraries":{"weight":1}
+ 		 },
+		 "Required Plug-ins":{
+ 			 "EMF":{"weight":1},
+ 			 "GEF":{"weight":1},
+ 			 "GMF":{"weight":1}
+ 		 },
+		 "Required Libraries":{
+ 			 "JDOM":{"weight":1},
+ 			 "Docx4J":{"weight":1},
+ 			 "Apache Log4J":{"weight":1},
+ 			 "JGraphT":{"weight":1},
+ 			 "ASADAL GDT":{"weight":1},
+ 			 "Apache FOP":{"weight":1}
+ 		 }
+ 	 } 
+ }
